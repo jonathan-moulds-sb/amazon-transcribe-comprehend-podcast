@@ -112,7 +112,7 @@ The second index we built lets you search at a paragraph level where a keyword a
 
 Now for some fun visualizations! 
 
-1. Download the Kibana Dashboard file [here](https://angelaw-workshop.s3.amazonaws.com/kibana.json)
+1. Download the Kibana Dashboard file [here](https://github.com/jonathan-moulds-sb/amazon-transcribe-comprehend-podcast/blob/master/kibana.json)
 
 1. On the Kibana home page, click **Management** on the left side toolbar.
 
